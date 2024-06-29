@@ -31,8 +31,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-    <img src="https://skillicons.dev/icons?i=c,php,go" />
-    <img src="https://skillicons.dev/icons?i=mysql,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,php,go,mysql,git" />
+
 </div>
 
 <br/>
