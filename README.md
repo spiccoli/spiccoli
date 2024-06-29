@@ -12,6 +12,8 @@
  
 🛠️ I’m working on authWebsite
 
+📖 Learning new stuff everyday
+
  </div>
  
 <div align="center"> 
