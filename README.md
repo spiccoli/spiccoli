@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🛠️ I’m working on authWebsite
+🛠️ I’m working on simple projects that allow me to learn the key concepts of JS
 
 📖 Learning new stuff everyday
 
