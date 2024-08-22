@@ -12,8 +12,8 @@
  
 🛠️ I’m currently working on simple projects that allow me to learn the key concepts of JS
 
-🚀 Committed to continuous learning and innovation!
-
+🚀 Let's innovate!
+<br>
  </div>
  
 <div align="center"> 
