@@ -12,7 +12,7 @@
  
 🛠️ I’m currently working on simple projects that allow me to learn the key concepts of JS
 
-<br></br>
+
  </div>
  
 <div align="center"> 
