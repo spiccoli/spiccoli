@@ -29,9 +29,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools I'm learning⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs," />
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet" />
     <img src="https://skillicons.dev/icons?i=java,js," />
-    <img src="https://skillicons.dev/icons?i=angular,react,dotnet,mongodb,tailwind," />
+    <img src="https://skillicons.dev/icons?i=angular,react,mongodb,tailwind," />
     <img src="https://skillicons.dev/icons?i=mysql,git," />
 
 </div> 
