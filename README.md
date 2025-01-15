@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🛠️“I’m currently working with C#, I plan to delve into Java this summer.” 🚀
+🛠️“I’m currently working with C#, I plan to delve into Go this summer.” 🚀
 
 
  </div>
