@@ -30,8 +30,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cs,dotnet," />
-    <img src="https://skillicons.dev/icons?i=java,js," />
-    <img src="https://skillicons.dev/icons?i=angular,react,tailwind," />
+    <img src="https://skillicons.dev/icons?i=go,java" />
+    <img src="https://skillicons.dev/icons?i=js,angular,react,tailwind," />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,git," />
 
 </div> 
